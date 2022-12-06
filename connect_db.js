@@ -3,7 +3,7 @@ let mysql = require('mysql');
 config = {
   host: "127.0.0.1",
   user: "root",
-  password: "abcd1234",
+  password: "",
   database: "mydb"
 }
 

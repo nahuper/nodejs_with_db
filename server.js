@@ -35,7 +35,7 @@ app.listen(PORT, () => {
 	var con = mysql.createConnection({
 	  host: "127.0.0.1",
 	  user: "root",
-	  password: "abcd1234",
+	  password: "",
 	  database: "mydb" // Data Base name.
 	});
 
